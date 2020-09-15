@@ -1,3 +1,3 @@
 # momoton
 
-## date now
+- [x] clock
